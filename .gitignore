@@ -1,4 +1,5 @@
 .vscode/
-data/
+data/train/*.jpg
+data/test/*.jpg
 *.model
 *.h5
