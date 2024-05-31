@@ -3,13 +3,14 @@
 python >=3.6    
 keras  
 tensorflow >=2.0  
+torch >=2.0
 scipy  
 sklearn  
 opencv  
 numpy  
 tqdm
 ## brief
-I use tensorflow as backend to implement an image one class svm classifier  
+I use tensorflow/pytorch as backend to implement an image one class svm classifier  
 I use ResNet50 as the feature extractor
 ## How to use
 put your images into 'data/train' for training  
